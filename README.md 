@@ -1,0 +1,10 @@
+# Real Estate Dashboard
+
+Ce projet est un tableau de bord interactif pour visualiser et analyser les données d'annonces immobilières.
+
+## Installation
+
+1. Clonez le projet :
+   ```bash
+   git clone https://github.com/votre-repo/real_estate_dashboard.git
+   cd real_estate_dashboard
